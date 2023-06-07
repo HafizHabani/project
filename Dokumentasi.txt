@@ -1,0 +1,17 @@
+link PPT
+https://www.canva.com/design/DAFcfbR6cqk/0lzCtOjm24gbAanyIiaZZg/edit
+
+Link Desain
+https://www.figma.com/file/IEJAfdfoeFK9I7OVsBE2wG/KostKu?node-id=0%3A1&t=Il15olbFgWJb72k8-1
+
+Project Charter
+https://docs.google.com/document/d/1kC7u162Loh7o073h0vq8Tx2WsFJgKkNsLopS6GDubhA/edit?usp=sharing
+
+Design System
+https://app.diagrams.net/#G1899X0TCzkVLPLzsVSHGgyk9_S_NEjc5R
+
+Jira
+https://rysalaksana.atlassian.net/jira/software/projects/KOS/boards/1/backlog
+
+Code Github
+https://github.com/HafizHabani/project
