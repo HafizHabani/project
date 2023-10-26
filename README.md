@@ -2,15 +2,5 @@
 
 Project Tugas Besar MPPL
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Link Presentasi
+https://www.canva.com/design/DAFmJ-_r72U/aVPes8i7R4D_Ip8LgPDLdQ/view?utm_content=DAFmJ-_r72U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
